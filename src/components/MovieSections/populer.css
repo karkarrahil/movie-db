@@ -1,0 +1,11 @@
+.image{
+    position:relative;
+    /* background: url('http://lorempixel.com/output/people-q-c-640-480-8.jpg'); */
+    /* background-size:cover;
+    -moz-box-shadow: inset 0px 850px 500px -500px #fff;
+    -webkit-box-shadow: inset 0px 850px 500px -500px #fff;
+    -o-box-shadow: inset 0px 850px 500px -500px #fff;
+    box-shadow: inset 0px 850px 500px -500px #fff; */
+    -webkit-mask-image: linear-gradient(black, transparent);
+    mask-image: linear-gradient(black, transparent);
+}
